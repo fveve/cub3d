@@ -1,4 +1,4 @@
-# **Project Name**
+# **Cub3d**
 
 ### **Description**  
 Cube3D is a simple 3D game where the goal is to collect all the collectibles in order to reach the exit, while avoiding the enemies.
